@@ -6,6 +6,11 @@
   float: right;
 }
 
+#navigation .nav a{
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+}
+
 .container .poly img{
   width: 100% !important;
 }
@@ -58,6 +63,8 @@ ul{
 
 .mybtn{
   color: white;
+  font-family: 'Roboto', sans-serif;
+  
 }
 
 .footer{
