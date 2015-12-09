@@ -23,7 +23,8 @@
 .direction-arrow{
     margin-top: 25px;
     text-align: center;
-    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 .direction-arrow button {
@@ -64,7 +65,8 @@ ul{
 .mybtn{
   color: white;
   font-family: 'Roboto', sans-serif;
-  
+  background-color: #afafaf !important;
+
 }
 
 .footer{
