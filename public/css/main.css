@@ -34,6 +34,10 @@
 
 /* GALLERY SECTION */
 
+#gallery img{
+     max-width: 100% !important;
+  }
+
 
 .bg-gallery {
   background-color: #e2e2e2;
