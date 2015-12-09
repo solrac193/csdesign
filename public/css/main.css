@@ -34,6 +34,11 @@
 
 /* GALLERY SECTION */
 
+#gallery .thumbnail{
+     width: 100% !important;
+  }
+
+
 .bg-gallery {
   background-color: #e2e2e2;
   padding-top: 10px;
